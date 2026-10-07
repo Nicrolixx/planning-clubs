@@ -1,0 +1,94 @@
+{
+ "slots": [
+  {
+   "name": "FBT LAB",
+   "tagline": "Open stage chill et automatisé · danse FBT",
+   "info": "Bientôt · discord.gg/5PWDAjr9nC",
+   "event": "",
+   "pictos": [
+    "musique",
+    "danse",
+    "coeur",
+    "groupe",
+    "casque"
+   ],
+   "poster": "chambre_01.png"
+  },
+  {
+   "name": "THE LAB",
+   "tagline": "Club de lap dance · Enrichment Center",
+   "info": "discord.gg/AkGYpTVrx9",
+   "event": "",
+   "pictos": [
+    "musique",
+    "danse",
+    "coeur",
+    "bar",
+    "fete"
+   ],
+   "poster": "chambre_02.png"
+  },
+  {
+   "name": "",
+   "tagline": "",
+   "info": "",
+   "event": "",
+   "pictos": [],
+   "poster": ""
+  },
+  {
+   "name": "",
+   "tagline": "",
+   "info": "",
+   "event": "",
+   "pictos": [],
+   "poster": ""
+  },
+  {
+   "name": "",
+   "tagline": "",
+   "info": "",
+   "event": "",
+   "pictos": [],
+   "poster": ""
+  },
+  {
+   "name": "",
+   "tagline": "",
+   "info": "",
+   "event": "",
+   "pictos": [],
+   "poster": ""
+  },
+  {
+   "name": "",
+   "tagline": "",
+   "info": "",
+   "event": "",
+   "pictos": [],
+   "poster": ""
+  },
+  {
+   "name": "",
+   "tagline": "",
+   "info": "",
+   "event": "",
+   "pictos": [],
+   "poster": ""
+  }
+ ],
+ "screen": {
+  "duration": 9,
+  "slides": [
+   {
+    "id": "e33f1614a7",
+    "enabled": true,
+    "name": "Test",
+    "tagline": "Test",
+    "info": "Test",
+    "event": "2026-10-07 21:00",
+    "poster": ""
+   }
+  ]
+ }
+}
