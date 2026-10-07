@@ -1,0 +1,19 @@
+RELAIS DU PLANNING DES CLUBS (facultatif)
+=========================================
+Sans relais, le monde affiche le planning integre au moment du menu 12 (il faut republier pour le mettre a jour).
+Avec ce relais, le monde recharge le planning toutes les 5 minutes : les changements du tableur arrivent tout seuls.
+VRChat ne lit pas Google Sheets directement (domaine non autorise) : GitHub Pages sert d'intermediaire.
+
+1. Cree un compte sur https://github.com puis un depot PUBLIC nomme par ex. planning-clubs.
+2. Envoie le contenu de ce dossier dans le depot (bouton "Add file > Upload files" : glisse horaires_clubs.py,
+   LISEZMOI.txt, le dossier docs, et le dossier .github - s'il n'apparait pas, cree le fichier
+   .github/workflows/horaires.yml avec "Add file > Create new file" et colle son contenu).
+3. Settings > Pages : Source = "Deploy from a branch", branche "main", dossier "/docs". Enregistre.
+4. Onglet Actions : active les workflows si demande, puis "Planning des clubs" > "Run workflow" pour un premier essai.
+5. Ton planning est en ligne a l'adresse : https://<ton-compte>.github.io/planning-clubs/horaires.txt
+6. Dans Unity : Assets/TheLabDance/Hall/Clubs.txt, ajoute la ligne
+      horaires: https://<ton-compte>.github.io/planning-clubs/horaires.txt
+   puis menu 12, Ctrl+S et republie (une seule fois).
+
+Note : GitHub met en pause les taches planifiees d'un depot sans activite depuis 60 jours ; si le planning
+ne bouge pas pendant 2 mois, relance le workflow a la main (onglet Actions).

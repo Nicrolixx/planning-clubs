@@ -1,0 +1,190 @@
+# Planning des clubs (heure de Paris)
+# jour(0=lundi)|HH:MM|duree min|type(H hebdo, B 1 sem/2, M mensuel, V variable)|couleur|Nom
+0|02:00|60|H|#bc5657|Incubus
+0|02:00|60|H|#6d7486|Lost Desires
+0|02:00|60|H|#eea3af|Monstrum Inn
+0|03:00|150|H|#ab7275|Demonic Temptations
+0|03:00|60|H|#bb7676|Desire Entertainment
+0|03:00|60|B|#a47488|Dreams of Arcadia
+0|03:00|60|M|#45f1ed|Sea Bunnies
+0|03:00|60|H|#b87582|Sinners Garden
+0|04:00|60|H|#22cf54|Gotholica
+0|04:00|120|H|#639ec8|Phoenix Palace
+0|04:00|60|H|#ffdeff|Starz glow
+0|04:00|60|B|#568b5b|The Lucky Rabbit
+0|05:00|60|H|#fdfcff|Penguin
+0|06:00|60|H|#3684ff|Yokai
+0|20:00|60|H|#c46cbf|Cyber Harem
+0|22:00|90|B|#1aa000|Sinners Jungle
+0|22:00|90|H|#a457b1|Temptation
+1|00:00|60|H|#7f7184|Nyx
+1|00:00|60|H|#5484ff|Prime
+1|02:00|30|H|#ec6d36|Faerun
+1|03:00|90|B|#1aa000|Sinners Jungle
+1|03:30|120|H|#577f54|Hex Bloom
+1|03:30|60|H|#78e870|Oasis
+1|04:00|60|H|#c45652|Bachelor Pad
+1|04:00|60|H|#a761e8|Violet Rose
+1|04:30|60|B|#ff5299|Slumber Party
+1|05:00|60|H|#c4edf8|Moonlight Haven
+1|20:30|60|H|#2f9a82|Crystal Rose
+1|21:00|60|H|#d85794|Tsuki
+1|21:30|90|H|#a868a5|Hellbound Haven
+1|22:00|60|H|#c95cc3|Zenith
+1|23:00|60|H|#cf4af0|LMNTRIX
+2|00:00|120|H|#fec713|Honey Cove
+2|02:30|120|H|#747bf6|Starlight Realm
+2|03:00|60|H|#7364fd|Basilisk VR
+2|03:00|150|B|#ab7275|Demonic Temptations
+2|03:00|60|H|#c4edf8|Moonlight Haven
+2|03:00|60|H|#45f1ed|Sea Bunnies
+2|03:00|60|H|#c95cc3|Zenith
+2|04:00|60|H|#956c38|Clockwork Emporium
+2|04:00|60|H|#9db3ee|Fantasy
+2|04:00|60|H|#f1de82|Loading Sensations
+2|04:00|60|H|#9d7a7d|The Book Club
+2|05:00|90|H|#9959d3|oBey
+2|21:00|90|H|#a59567|Luxury
+2|22:00|60|H|#7e7c46|13th Floor
+2|22:00|60|H|#eea3af|Monstrum Inn
+2|22:00|60|B|#bf635f|Rapture
+3|02:00|60|H|#b668a7|Brat House
+3|02:00|60|H|#ff53fe|Red Cloud
+3|02:30|60|H|#7272c7|Femboy Exchange
+3|03:00|60|H|#c4b47d|Black Jack
+3|03:00|60|B|#bf635f|Rapture
+3|03:00|60|H|#c0eefd|Winter Blossom
+3|03:30|60|H|#cd5662|Rouge
+3|04:00|60|H|#ce5252|Carpe Noctem
+3|04:00|60|H|#c1716a|Gehenna
+3|04:00|60|H|#22cf54|Gotholica
+3|04:00|60|H|#6377ce|Immortal
+3|04:00|60|H|#937756|La Famiglia
+3|04:00|60|H|#fbe971|Virtual Pantheon
+3|05:00|60|H|#5fa567|Pandorum
+3|05:30|60|H|#78e870|Oasis
+3|21:00|60|H|#8d6edd|Celestial
+3|21:00|60|H|#be5b5a|Crimson Veil
+3|21:00|60|H|#d9d4df|The Koncert
+3|23:00|150|B|#ab7275|Demonic Temptations
+3|23:00|60|H|#8b54fd|Purple Rain
+3|23:00|90|H|#b87582|Sinners Garden
+4|02:00|60|H|#e7617f|Dolls & Devils
+4|03:00|60|H|#a4787c|Laced in Lust
+4|03:00|60|H|#8c7a6d|Plunder
+4|03:00|90|H|#27abfa|Project; Utopia
+4|04:00|60|H|#faf5f2|Avinity
+4|04:00|90|H|#f4803a|Box 5
+4|04:00|90|H|#e4b942|Desired Divinity
+4|04:00|120|H|#5d9ec1|Furry Desires
+4|04:00|60|M|#a389c1|PSHQ
+4|04:00|60|V|#a77446|Terminus
+4|04:30|60|H|#966ea9|Fracture
+4|05:00|60|H|#ea9ac7|CASTLE SAKURA
+4|05:00|120|H|#f9dd89|Divine Serenity
+4|05:00|120|H|#987296|GenVR
+4|13:30|120|H|#ba7484|Sexy AF
+4|16:00|90|M|#e97e74|Male Model Club
+4|19:00|120|H|#ffffff|PATRIARXAT
+4|20:00|60|H|#bafab7|Nightshift Bar
+4|21:00|120|H|#f47f20|BELKA
+4|21:00|90|H|#4b8043|Mint Cat
+4|21:30|60|H|#b38b4f|Galathonian Empire
+4|22:30|90|H|#f8eb77|Temple of Sacchara
+4|23:00|120|H|#5f7bba|Frisky n Risky
+4|23:00|60|H|#bc5657|Incubus
+4|23:30|60|H|#5484ff|Prime
+5|00:00|60|H|#b77675|Hell Garden
+5|00:00|60|H|#eea3af|Monstrum Inn
+5|00:00|60|H|#97719c|Vicious
+5|01:00|60|H|#d86d31|Elementum
+5|01:00|60|H|#66749a|Facade
+5|01:00|90|H|#e8d5ac|The Ladies Lounge
+5|01:30|60|V|#ef6d43|Luxe Nova
+5|01:30|120|H|#bf635f|Rapture
+5|01:30|60|H|#fc72af|Shameless
+5|02:00|60|H|#9db3ee|Fantasy
+5|02:00|90|H|#5a808c|NeverNight
+5|02:00|60|B|#f78d29|Red Fox Tails
+5|03:00|60|B|#a97b58|Devil's Basement
+5|03:00|60|M|#d9bf9b|Island Temptations
+5|03:00|60|H|#ff5500|Night Crawlers
+5|03:00|60|H|#fdfdfd|Society
+5|03:30|90|B|#577f54|Hex Bloom
+5|04:00|60|H|#48a4be|Canine
+5|04:00|60|B|#d3ad61|EL DORADO
+5|04:00|60|M|#a389c1|PSHQ
+5|04:00|60|B|#b77675|Slaughter House
+5|04:00|60|H|#776db3|Taboo
+5|04:00|60|M|#768284|The Chateau
+5|04:00|60|H|#f87c1b|The FoxHole
+5|05:00|60|M|#647db2|Corruption
+5|05:00|120|H|#c56de1|DaZe
+5|05:00|120|H|#d86475|Lush Labyrinth
+5|05:00|60|B|#78e870|Oasis
+5|05:00|60|H|#5fa567|Pandorum
+5|05:00|60|H|#888365|Queen's Men
+5|05:00|60|B|#fdfdfd|Society
+5|06:00|60|H|#3684ff|Yokai
+5|07:00|60|B|#888365|Queen's Men
+5|10:30|60|B|#fad50b|Spade
+5|19:30|60|M|#788547|Spa Tori
+5|21:00|120|H|#c58697|Angelica
+5|21:00|120|H|#02d1e0|Synth
+5|21:30|90|B|#f451b4|Saturday Night Club
+5|22:00|90|B|#b5605b|El Diablo
+5|22:00|120|B|#fec713|Honey Cove
+5|22:00|90|H|#27abfa|Project; Utopia
+5|22:00|90|H|#47839b|Seidr
+5|23:00|60|H|#dfe3e6|Ace of Clubs
+5|23:00|60|B|#e4e7e3|Aura
+5|23:00|60|H|#a174c7|Error
+5|23:00|60|H|#f27959|Rustworks
+5|23:00|60|H|#b665fa|Sanctuary
+6|00:00|60|B|#e556f9|Moxxxi
+6|00:00|120|H|#9d7aa8|Shadow
+6|01:00|60|H|#ecbb71|Bewitched
+6|01:00|60|B|#ea9ac7|CASTLE SAKURA
+6|01:00|60|H|#cc5a4d|The Ninth Room
+6|01:30|60|V|#ef6d43|Luxe Nova
+6|01:30|60|H|#d25483|Stripe
+6|02:00|60|H|#ff5252|Crimson Moon
+6|02:00|60|H|#3f839f|Pirates Cove
+6|02:00|60|H|#ca6cd1|Project Eden
+6|02:00|60|H|#915e96|Tittiez N Talkin
+6|02:30|60|H|#c7c7c7|MisfitManor
+6|03:00|60|B|#956c38|Clockwork Emporium
+6|03:00|60|H|#f0c92e|Complex
+6|03:00|90|H|#2f9a82|Crystal Rose
+6|03:00|30|H|#ec6d36|Faerun
+6|03:00|60|H|#ef6d43|Luxe Nova
+6|03:00|60|H|#feb4f1|Playhouse
+6|03:00|60|B|#cfb6fb|The Continental
+6|03:30|60|M|#d9caa6|Moon Star
+6|04:00|60|H|#55ff1a|Amarok
+6|04:00|60|B|#faf5f2|Avinity
+6|04:00|90|M|#48dfe7|End Of Line
+6|04:00|60|M|#a960cc|Femboy Host Club
+6|04:00|60|H|#faf49b|Lunaria
+6|04:00|60|H|#fbe971|Virtual Pantheon
+6|04:30|60|M|#4d77a5|Drifters
+6|04:30|60|H|#e1e1e1|House of Allure
+6|05:00|60|V|#ffffff|BLACK BEE
+6|05:00|60|H|#647db2|Corruption
+6|05:00|60|H|#a761e8|Pixel Paradise
+6|05:30|60|H|#d0cf26|D-Gen
+6|05:30|60|M|#b659fd|Lost Souls
+6|05:30|120|H|#a8787c|The Forbidden Apple
+6|09:00|120|H|#ba7484|Sexy AF
+6|15:30|60|V|#0cc9cd|Dream of Me
+6|19:00|120|H|#f9d1f5|BARDAK
+6|19:00|90|H|#8474a1|Revelry
+6|21:00|120|H|#ffe2a1|Ludeus
+6|21:00|60|H|#5a76a4|Stardust
+6|21:00|60|B|#fbe971|Sunset Pinnacle
+6|22:00|60|B|#cf4af0|LMNTRIX
+6|22:00|60|H|#ca6cd1|Project Eden
+6|22:00|60|B|#a87477|The Succubus Den
+6|23:00|60|B|#9db3ee|Fantasy
+6|23:00|120|B|#d86475|Lush Labyrinth
+6|23:00|90|H|#ffffff|Party Empire
