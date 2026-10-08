@@ -1,3 +1,2 @@
 # Grand ecran (logiciel Clubs FBT LAB) : Nom | Accroche | Infos | event (UTC). Aucune diapo = clubs des chambres
 #duree|9
-Test|Test|Test|1791399600

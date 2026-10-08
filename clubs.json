@@ -1,18 +1,12 @@
 {
  "slots": [
   {
-   "name": "FBT LAB",
-   "tagline": "Open stage chill et automatisé · danse FBT",
-   "info": "Bientôt · discord.gg/5PWDAjr9nC",
+   "name": "",
+   "tagline": "",
+   "info": "",
    "event": "",
-   "pictos": [
-    "musique",
-    "danse",
-    "coeur",
-    "groupe",
-    "casque"
-   ],
-   "poster": "chambre_01.png"
+   "pictos": [],
+   "poster": ""
   },
   {
    "name": "THE LAB",
@@ -83,10 +77,10 @@
    {
     "id": "e33f1614a7",
     "enabled": true,
-    "name": "Test",
-    "tagline": "Test",
-    "info": "Test",
-    "event": "2026-10-07 21:00",
+    "name": "",
+    "tagline": "",
+    "info": "",
+    "event": "",
     "poster": ""
    }
   ]
