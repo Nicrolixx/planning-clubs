@@ -73,16 +73,6 @@
  ],
  "screen": {
   "duration": 9,
-  "slides": [
-   {
-    "id": "e33f1614a7",
-    "enabled": true,
-    "name": "",
-    "tagline": "",
-    "info": "",
-    "event": "",
-    "poster": ""
-   }
-  ]
+  "slides": []
  }
 }
