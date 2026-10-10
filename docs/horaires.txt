@@ -1,6 +1,6 @@
 # Planning des clubs (heure de Paris)
 # jour(0=lundi)|HH:MM|duree min|type(H hebdo, B 1 sem/2, M mensuel, V variable)|couleur|Nom|invitation|logo
-#atlas|16|10|128|51180624a9
+#atlas|16|10|128|5a1ef4760f
 0|02:00|60|H|#bc5657|Incubus|discord.gg/incubusvr|67
 0|02:00|60|H|#6d7486|Lost Desires|discord.gg/Y8aU3Eyhne|139
 0|02:00|60|H|#eea3af|Monstrum Inn|discord.gg/kwrAymhCtY|76
