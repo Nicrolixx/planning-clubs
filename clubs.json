@@ -1,12 +1,16 @@
 {
  "slots": [
   {
-   "name": "",
-   "tagline": "",
-   "info": "",
+   "name": "Zeubi club",
+   "tagline": "Lap dance hallowen",
+   "info": "Samedi 12H",
    "event": "",
-   "pictos": [],
-   "poster": ""
+   "pictos": [
+    "musique",
+    "groupe",
+    "coeur"
+   ],
+   "poster": "chambre_01.png"
   },
   {
    "name": "THE LAB",
@@ -74,5 +78,39 @@
  "screen": {
   "duration": 9,
   "slides": []
+ },
+ "versions": {
+  "chambre_01.png": [
+   "53ec894aaeb15116dec30dd3b319037eb9d6acf9",
+   0
+  ],
+  "chambre_02.png": [
+   "502e47a6202f380cb7d2eea531a9661339dd797c",
+   0
+  ],
+  "chambre_03.png": [
+   "d73ab3b05fd65eaf00b61d3a6e945807c0881600",
+   0
+  ],
+  "chambre_04.png": [
+   "d73ab3b05fd65eaf00b61d3a6e945807c0881600",
+   0
+  ],
+  "chambre_05.png": [
+   "d73ab3b05fd65eaf00b61d3a6e945807c0881600",
+   0
+  ],
+  "chambre_06.png": [
+   "d73ab3b05fd65eaf00b61d3a6e945807c0881600",
+   0
+  ],
+  "chambre_07.png": [
+   "d73ab3b05fd65eaf00b61d3a6e945807c0881600",
+   0
+  ],
+  "chambre_08.png": [
+   "d73ab3b05fd65eaf00b61d3a6e945807c0881600",
+   0
+  ]
  }
 }

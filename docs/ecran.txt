@@ -1,2 +1,2 @@
-# Grand ecran (logiciel Clubs FBT LAB) : Nom | Accroche | Infos | event (UTC). Aucune diapo = clubs des chambres
+# Grand ecran (logiciel Clubs FBT LAB) : Nom | Accroche | Infos | event (UTC) | version de l'affiche. Aucune diapo = clubs des chambres
 #duree|9

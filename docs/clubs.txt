@@ -1,9 +1,9 @@
-# Hall des Clubs (logiciel Clubs FBT LAB) : Nom | Accroche | Infos | event (UTC) | pictos
-||||
-THE LAB|Club de lap dance · Enrichment Center|discord.gg/AkGYpTVrx9|0|musique,danse,coeur,bar,fete
-||||
-||||
-||||
-||||
-||||
-||||
+# Hall des Clubs (logiciel Clubs FBT LAB) : Nom | Accroche | Infos | event (UTC) | pictos | version de l'affiche
+Zeubi club|Lap dance hallowen|Samedi 12H|0|musique,groupe,coeur|0
+THE LAB|Club de lap dance · Enrichment Center|discord.gg/AkGYpTVrx9|0|musique,danse,coeur,bar,fete|0
+|||0||0
+|||0||0
+|||0||0
+|||0||0
+|||0||0
+|||0||0
