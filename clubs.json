@@ -1,16 +1,12 @@
 {
  "slots": [
   {
-   "name": "Zeubi club",
-   "tagline": "Lap dance hallowen",
-   "info": "Samedi 12H",
+   "name": "",
+   "tagline": "",
+   "info": "",
    "event": "",
-   "pictos": [
-    "musique",
-    "groupe",
-    "coeur"
-   ],
-   "poster": "chambre_01.png"
+   "pictos": [],
+   "poster": ""
   },
   {
    "name": "THE LAB",
@@ -81,8 +77,8 @@
  },
  "versions": {
   "chambre_01.png": [
-   "53ec894aaeb15116dec30dd3b319037eb9d6acf9",
-   0
+   "d73ab3b05fd65eaf00b61d3a6e945807c0881600",
+   1
   ],
   "chambre_02.png": [
    "502e47a6202f380cb7d2eea531a9661339dd797c",
