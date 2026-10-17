@@ -106,7 +106,7 @@
 5|02:00|60|H|#9db3ee|Fantasy|discord.gg/ClubFantasy|25
 5|02:00|90|H|#5a808c|NeverNight|discord.gg/n9kX2GcE3p|81
 5|02:00|60|B|#f78d29|Red Fox Tails|discord.gg/jwushAgndZ|70
-5|03:00|60|B|#a97b58|Devil's Basement|discord.gg/84h7D8hp23|8
+5|03:00|60|B|#b052e4|House of Cards|discord.gg/84h7D8hp23|8
 5|03:00|60|M|#d9bf9b|Island Temptations|discord.gg/qryR9CwPCV|98
 5|03:00|60|H|#ff5500|Night Crawlers|discord.gg/clubnightcrawlers|30
 5|03:00|60|H|#fdfdfd|Society|discord.gg/join-society|69
