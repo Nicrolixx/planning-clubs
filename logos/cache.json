@@ -892,5 +892,17 @@
   "guild": "1480729444539961519",
   "icon": "b160add1db40346017a2a01735bd62ba",
   "name": "Box 5"
+ },
+ "abyssvr": {
+  "checked": 1792886215.4792728,
+  "guild": "1366073841302114345",
+  "icon": "a_6b3ccc278abd36ec4269aea56ba755c0",
+  "name": "ABYSS"
+ },
+ "ClubGlitch": {
+  "checked": 1792886216.1760945,
+  "guild": "419328415687245825",
+  "icon": "a_fc1d42f642f3a298a1376ec867cc53be",
+  "name": "Glitch"
  }
 }
