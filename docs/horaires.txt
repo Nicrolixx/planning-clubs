@@ -15,6 +15,7 @@
 0|04:00|60|B|#568b5b|The Lucky Rabbit|discord.gg/WRBSBApT5F|129
 0|05:00|60|H|#fdfcff|Penguin|discord.gg/EzmGmGHBa2|51
 0|06:00|60|H|#3684ff|Yokai|discord.gg/D2TFn5ArHb|38
+0|16:00|60|H|#8d73ca|Dazzling Night||-1
 0|20:00|60|H|#c46cbf|Cyber Harem|discord.gg/TheCyberHarem|118
 0|22:00|90|B|#1aa000|Sinners Jungle|discord.gg/rqabYtXAzh|108
 0|22:00|90|H|#a457b1|Temptation|discord.gg/temptation|114
