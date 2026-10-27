@@ -28,6 +28,7 @@
 1|04:00|60|H|#c45652|Bachelor Pad|discord.gg/thebachelorpad|117
 1|04:00|60|H|#a761e8|Violet Rose|discord.gg/4crRjmSkfR|0
 1|05:00|60|H|#c4edf8|Moonlight Haven|discord.gg/themoonlighthaven|119
+1|15:00|60|V|#7483a2|Adonis||-1
 1|20:30|60|H|#2f9a82|Crystal Rose|discord.gg/7TfaWTT|5
 1|21:00|60|H|#d85794|Tsuki|discord.gg/clubtsuki|33
 1|21:30|90|H|#a868a5|Hellbound Haven|discord.gg/zrJvHAfP6j|143
