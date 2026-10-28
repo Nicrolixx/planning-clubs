@@ -179,6 +179,7 @@
 6|05:30|60|M|#b659fd|Lost Souls|discord.gg/g3RE7JP4fJ|58
 6|05:30|120|H|#a8787c|The Forbidden Apple|discord.gg/HkcMFwWyRS|63
 6|09:00|120|H|#ba7484|Sexy AF|discord.gg/sexyaf|109
+6|15:00|90|V|#9a7374|Lujuria||-1
 6|15:30|60|V|#0cc9cd|Dream of Me|discord.gg/WjaJSVX|128
 6|19:00|120|H|#f9d1f5|BARDAK|discord.gg/bardak|20
 6|19:00|90|H|#8474a1|Revelry|discord.gg/FmhvyetBwe|56
