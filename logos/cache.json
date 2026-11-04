@@ -918,27 +918,33 @@
   "name": "Club Eden"
  },
  "clubcarnevil": {
-  "checked": 1793541515.5806954,
+  "checked": 1793809784.6160269,
   "guild": "1192559033660493904",
   "icon": "50945afa68af434b646cb900e717033d",
   "name": "Club CarnEvil"
  },
  "PMfw3vFHUw": {
-  "checked": 1793541516.2211523,
+  "checked": 1793809786.1130095,
   "guild": "1442208650805514362",
   "icon": "9589f7d2d7128ee2309fafa1cd937531",
   "name": "Benediction"
  },
  "VUbm4K825": {
-  "checked": 1793541517.5334418,
-  "guild": "1398101848635998299",
-  "icon": "da9e15e3423fa63138286e063c190ffa",
-  "name": "\ud835\udd4a\ud835\udd52\ud835\udd5f\ud835\udd54\ud835\udd65\ud835\udd66\ud835\udd52\ud835\udd63\ud835\udd6a"
+  "checked": 1793809786.735872,
+  "guild": "",
+  "icon": "",
+  "dead": 404
  },
  "YsTF4vKyKZ": {
-  "checked": 1793541518.24042,
+  "checked": 1793809787.3960485,
   "guild": "913462697243328532",
   "icon": "7822dbed545830b4befba62e6050a870",
   "name": "Club Moon Star"
+ },
+ "gYHuKZ7H7J": {
+  "checked": 1793809785.3397934,
+  "guild": "1515017460305362964",
+  "icon": "75fa213444dee1ae0c50a70e6e8505d4",
+  "name": "Loading Sensations"
  }
 }
