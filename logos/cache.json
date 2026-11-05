@@ -946,5 +946,17 @@
   "guild": "1515017460305362964",
   "icon": "75fa213444dee1ae0c50a70e6e8505d4",
   "name": "Loading Sensations"
+ },
+ "the13thfloor": {
+  "checked": 1793900381.623345,
+  "guild": "1090093922258260089",
+  "icon": "11875e6117fca86b0671ccf93aa20569",
+  "name": "The 13th Floor"
+ },
+ "winterblossom": {
+  "checked": 1793900382.2941737,
+  "guild": "1267040638051029094",
+  "icon": "83e74503e2d26951ca9633067a80e7a9",
+  "name": "Club Winter Blossom"
  }
 }
