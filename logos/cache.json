@@ -906,13 +906,13 @@
   "name": "Glitch"
  },
  "UaGr86eGXJ": {
-  "checked": 1793742747.605439,
+  "checked": 1794004693.5013375,
   "guild": "1539069937409335307",
   "icon": "112b75705d9e8d7ce03ec0e3a2fe5bfe",
   "name": "Moonlight Escape"
  },
  "ZrbCqeKQZg": {
-  "checked": 1793742748.935411,
+  "checked": 1794004694.113178,
   "guild": "1326693941487210497",
   "icon": "e537a279f55d8e936cdda38a9defd416",
   "name": "Club Eden"
@@ -964,5 +964,11 @@
   "guild": "1315754957890392094",
   "icon": "8c2dd984a4fe8ddfb48df0c77b4ef5b1",
   "name": "\ud835\udd6e\ud835\udd91\ud835\udd9a\ud835\udd87 \ud835\udd7e\ud835\udd88\ud835\udd97\ud835\udd8a\ud835\udd86\ud835\udd92 \ud835\udd77\ud835\udd94\ud835\udd9a\ud835\udd93\ud835\udd8c\ud835\udd8a"
+ },
+ "EuxHzaupbS": {
+  "checked": 1794004692.4239452,
+  "guild": "",
+  "icon": "",
+  "dead": 404
  }
 }

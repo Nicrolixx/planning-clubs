@@ -99,11 +99,12 @@
 5|01:00|60|H|#66749a|Facade|discord.gg/XQrdeeUhBU|135
 5|01:00|90|H|#e8d5ac|The Ladies Lounge|discord.gg/A6B9RfS8Z6|10
 5|01:30|60|V|#ef6d43|Luxe Nova|discord.gg/luxe-nova|77
-5|01:30|120|H|#bf635f|Rapture|discord.gg/rapture|102
+5|01:30|120|B|#bf635f|Rapture|discord.gg/rapture|102
 5|01:30|60|H|#fc72af|Shameless|discord.gg/shamelessclub|109
 5|02:00|60|H|#9db3ee|Fantasy|discord.gg/ClubFantasy|24
 5|02:00|90|H|#5a808c|NeverNight|discord.gg/n9kX2GcE3p|80
 5|02:00|60|B|#f78d29|Red Fox Tails|discord.gg/jwushAgndZ|69
+5|03:00|60|H|#7e7c46|13th Floor|discord.gg/EuxHzaupbS|-1
 5|03:00|60|B|#b052e4|House of Cards|discord.gg/84h7D8hp23|7
 5|03:00|60|M|#d9bf9b|Island Temptations|discord.gg/qryR9CwPCV|98
 5|03:00|60|M|#a090e0|Moonlight Escape|discord.gg/UaGr86eGXJ|120
