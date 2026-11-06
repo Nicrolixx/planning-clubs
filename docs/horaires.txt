@@ -1,14 +1,14 @@
 # Planning des clubs (heure de Paris)
 # jour(0=lundi)|HH:MM|duree min|type(H hebdo, B 1 sem/2, M mensuel, V variable)|couleur|Nom|invitation|logo
-#atlas|16|10|128|998e96ad79
+#atlas|16|10|128|47d0203804
 0|02:00|60|H|#bc5657|Incubus|discord.gg/incubusvr|64
 0|02:00|60|H|#6d7486|Lost Desires|discord.gg/Y8aU3Eyhne|137
 0|02:00|60|H|#eea3af|Monstrum Inn|discord.gg/kwrAymhCtY|73
 0|03:00|150|H|#ab7275|Demonic Temptations|discord.gg/demonic-temptations|39
 0|03:00|60|H|#bb7676|Desire Entertainment|discord.gg/Desirevr|40
-0|03:00|60|B|#a47488|Dreams of Arcadia|discord.gg/zduksWKb5k|145
+0|03:00|60|B|#a47488|Dreams of Arcadia|discord.gg/zduksWKb5k|143
 0|03:00|60|M|#45f1ed|Sea Bunnies|discord.gg/N4AKHPZwqQ|79
-0|03:00|60|H|#b87582|Sinners Garden|discord.gg/thesinnersgarden|120
+0|03:00|60|H|#b87582|Sinners Garden|discord.gg/thesinnersgarden|119
 0|04:00|60|H|#22cf54|Gotholica|discord.gg/yPPBKPm9Kq|140
 0|04:00|120|H|#639ec8|Phoenix Palace|discord.gg/phoenixpalace|87
 0|04:00|60|H|#ffdeff|Starz glow|discord.gg/yt6yvkfr5c|142
@@ -16,7 +16,7 @@
 0|05:00|60|H|#fdfcff|Penguin|discord.gg/EzmGmGHBa2|49
 0|06:00|60|H|#3684ff|Yokai|discord.gg/D2TFn5ArHb|37
 0|16:00|60|H|#8d73ca|Dazzling Night||-1
-0|20:00|60|H|#c46cbf|Cyber Harem|discord.gg/TheCyberHarem|118
+0|20:00|60|H|#c46cbf|Cyber Harem|discord.gg/TheCyberHarem|117
 0|22:00|90|B|#1aa000|Sinners Jungle|discord.gg/rqabYtXAzh|107
 0|22:00|90|H|#a457b1|Temptation|discord.gg/temptation|113
 1|00:00|60|H|#7f7184|Nyx|discord.gg/eBgrMVGYZ8|46
@@ -26,42 +26,42 @@
 1|03:30|120|H|#577f54|Hex Bloom|discord.gg/sT6mmfgjXt|110
 1|03:30|60|M|#b659fd|Lost Souls|discord.gg/g3RE7JP4fJ|55
 1|03:30|60|H|#78e870|Oasis|discord.gg/OasisVRC|84
-1|04:00|60|H|#c45652|Bachelor Pad|discord.gg/thebachelorpad|117
+1|04:00|60|H|#c45652|Bachelor Pad|discord.gg/thebachelorpad|116
 1|04:00|60|H|#a761e8|Violet Rose|discord.gg/4crRjmSkfR|0
-1|05:00|60|H|#c4edf8|Moonlight Haven|discord.gg/themoonlighthaven|119
+1|05:00|60|H|#c4edf8|Moonlight Haven|discord.gg/themoonlighthaven|118
 1|15:00|60|V|#7483a2|Adonis||-1
 1|20:30|60|H|#2f9a82|Crystal Rose|discord.gg/7TfaWTT|5
 1|21:00|60|H|#d85794|Tsuki|discord.gg/clubtsuki|32
-1|21:30|90|H|#a868a5|Hellbound Haven|discord.gg/zrJvHAfP6j|147
-1|22:00|60|H|#c95cc3|Zenith|discord.gg/vrclubzenith2022|126
+1|21:30|90|H|#a868a5|Hellbound Haven|discord.gg/zrJvHAfP6j|145
+1|22:00|60|H|#c95cc3|Zenith|discord.gg/vrclubzenith2022|125
 1|23:00|60|H|#cf4af0|LMNTRIX|discord.gg/PPtKZgQ3zE|91
 2|00:00|120|H|#fec713|Honey Cove|discord.gg/nj5fPcXpTe|82
-2|02:30|120|H|#747bf6|Starlight Realm|discord.gg/ugWSHrDYdZ|122
+2|02:30|120|H|#747bf6|Starlight Realm|discord.gg/ugWSHrDYdZ|121
 2|03:00|60|H|#7364fd|Basilisk VR|discord.gg/rJSAWrNvqq|105
 2|03:00|150|B|#ab7275|Demonic Temptations|discord.gg/demonic-temptations|39
-2|03:00|60|H|#c4edf8|Moonlight Haven|discord.gg/themoonlighthaven|119
+2|03:00|60|H|#c4edf8|Moonlight Haven|discord.gg/themoonlighthaven|118
 2|03:00|60|H|#45f1ed|Sea Bunnies|discord.gg/N4AKHPZwqQ|79
-2|03:00|60|H|#c95cc3|Zenith|discord.gg/vrclubzenith2022|126
+2|03:00|60|H|#c95cc3|Zenith|discord.gg/vrclubzenith2022|125
 2|04:00|60|H|#956c38|Clockwork Emporium|discord.gg/cwe|36
 2|04:00|60|H|#9db3ee|Fantasy|discord.gg/ClubFantasy|24
 2|04:00|60|H|#f1de82|Loading Sensations|discord.gg/gYHuKZ7H7J|59
 2|04:00|60|H|#9d7a7d|The Book Club|discord.gg/HxmdQ75TKr|63
 2|05:00|90|H|#9959d3|oBey|discord.gg/XN2eejWMMF|134
-2|22:00|60|H|#7e7c46|13th Floor|discord.gg/the13thfloor|115
+2|22:00|60|H|#7e7c46|13th Floor|discord.gg/the13thfloor|114
 2|22:00|60|H|#eea3af|Monstrum Inn|discord.gg/kwrAymhCtY|73
 2|22:00|60|B|#bf635f|Rapture|discord.gg/rapture|102
 3|02:00|60|H|#ff53fe|Red Cloud|discord.gg/redcloud|104
 3|02:30|60|H|#7272c7|Femboy Exchange|discord.gg/9gZsFPZPDm|8
 3|03:00|60|H|#c4b47d|Black Jack|discord.gg/hxchAQZhmS|62
 3|03:00|60|B|#bf635f|Rapture|discord.gg/rapture|102
-3|03:00|60|H|#c0eefd|Winter Blossom|discord.gg/winterblossom|129
+3|03:00|60|H|#c0eefd|Winter Blossom|discord.gg/winterblossom|128
 3|03:30|60|H|#cd5662|Rouge|discord.gg/Mc3w9SZQ3k|78
-3|04:00|60|H|#ce5252|Carpe Noctem|discord.gg/Us97w9dkYw|123
+3|04:00|60|H|#ce5252|Carpe Noctem|discord.gg/Us97w9dkYw|122
 3|04:00|60|H|#c1716a|Gehenna|discord.gg/xK73WEbuQX|133
 3|04:00|60|H|#22cf54|Gotholica|discord.gg/yPPBKPm9Kq|140
 3|04:00|60|H|#6377ce|Immortal|discord.gg/clubimmortal|27
 3|04:00|60|H|#937756|La Famiglia|discord.gg/la-famiglia|74
-3|04:00|60|H|#fbe971|Virtual Pantheon|discord.gg/virtualpantheon|125
+3|04:00|60|H|#fbe971|Virtual Pantheon|discord.gg/virtualpantheon|124
 3|05:00|60|H|#5fa567|Pandorum|discord.gg/pandorum|85
 3|05:30|60|H|#78e870|Oasis|discord.gg/OasisVRC|84
 3|21:00|60|H|#8d6edd|Celestial|discord.gg/YjEhcg845b|138
@@ -69,20 +69,17 @@
 3|21:00|60|H|#d9d4df|The Koncert|discord.gg/cnyHxSqa9U|33
 3|23:00|150|B|#ab7275|Demonic Temptations|discord.gg/demonic-temptations|39
 3|23:00|60|H|#8b54fd|Purple Rain|discord.gg/4YmxGZdtVU|2
-3|23:00|90|H|#b87582|Sinners Garden|discord.gg/thesinnersgarden|120
+3|23:00|90|H|#b87582|Sinners Garden|discord.gg/thesinnersgarden|119
 4|02:00|60|H|#e7617f|Dolls & Devils|discord.gg/dollsanddevils|43
 4|03:00|60|H|#a4787c|Laced in Lust|discord.gg/lacedinlust|75
-4|03:00|60|H|#8c7a6d|Plunder|discord.gg/wECaesj2yv|128
+4|03:00|60|H|#8c7a6d|Plunder|discord.gg/wECaesj2yv|127
 4|03:00|90|H|#27abfa|Project; Utopia|discord.gg/projectutopia|92
+4|03:00|60|H|#bf5661|Scream Lounge|discord.gg/wnzPNY3FPA|130
 4|04:00|60|H|#faf5f2|Avinity|discord.gg/avinityvr|14
-4|04:00|90|H|#f4803a|Box 5|discord.gg/ZZD2RNTWMb|148
+4|04:00|90|H|#f4803a|Box 5|discord.gg/ZZD2RNTWMb|146
 4|04:00|90|H|#e4b942|Desired Divinity|discord.gg/k7tdw6uDfd|70
 4|04:00|120|H|#5d9ec1|Furry Desires|discord.gg/J37tqcK83D|65
-4|04:00|60|M|#a389c1|PSHQ|discord.gg/pshq|93
-4|04:00|60|V|#a77446|Terminus|discord.gg/TerminusEvent|114
 4|04:30|60|H|#966ea9|Fracture|discord.gg/clubfracture|25
-4|05:00|60|H|#ea9ac7|CASTLE SAKURA|discord.gg/yx3spg259W|143
-4|05:00|120|H|#f9dd89|Divine Serenity|discord.gg/Z9C6nQnXa2|144
 4|05:00|120|H|#987296|GenVR|discord.gg/BmBkAFF7h4|21
 4|16:00|90|M|#e97e74|Male Model Club|discord.gg/jdU8RdJBaE|66
 4|19:00|120|H|#ffffff|PATRIARXAT|discord.gg/jKVD4zsJke|67
@@ -90,7 +87,7 @@
 4|21:00|120|H|#f47f20|BELKA|discord.gg/fFVDFTZ4RE|52
 4|21:00|90|H|#4b8043|Mint Cat|discord.gg/4g76fXywup|1
 4|21:30|60|H|#b38b4f|Galathonian Empire|discord.gg/galathonian-empire|56
-4|22:00|60|H|#b17578|Eden|discord.gg/ZrbCqeKQZg|146
+4|22:00|60|H|#b17578|Eden|discord.gg/ZrbCqeKQZg|144
 4|22:30|90|H|#f8eb77|Candy Kingdom|discord.gg/qgu5E7MPex|97
 4|23:00|120|H|#5f7bba|Frisky n Risky|discord.gg/friskynrisky|54
 4|23:00|60|H|#bc5657|Incubus|discord.gg/incubusvr|64
@@ -109,7 +106,7 @@
 5|02:00|60|B|#f78d29|Red Fox Tails|discord.gg/jwushAgndZ|69
 5|03:00|60|B|#b052e4|House of Cards|discord.gg/84h7D8hp23|7
 5|03:00|60|M|#d9bf9b|Island Temptations|discord.gg/qryR9CwPCV|98
-5|03:00|60|M|#a090e0|Moonlight Escape|discord.gg/UaGr86eGXJ|121
+5|03:00|60|M|#a090e0|Moonlight Escape|discord.gg/UaGr86eGXJ|120
 5|03:00|60|H|#ff5500|Night Crawlers|discord.gg/clubnightcrawlers|30
 5|03:00|60|H|#fdfdfd|Society|discord.gg/join-society|68
 5|03:30|90|B|#577f54|Hex Bloom|discord.gg/sT6mmfgjXt|110
@@ -146,9 +143,8 @@
 6|00:00|60|B|#e556f9|Moxxxi|discord.gg/clubmoxxxi|29
 6|00:00|120|H|#9d7aa8|Shadow|discord.gg/xcQUWeek6j|132
 6|01:00|60|H|#ecbb71|Bewitched|discord.gg/bewitchedvr|19
-6|01:00|60|B|#ea9ac7|CASTLE SAKURA|discord.gg/yx3spg259W|143
 6|01:00|60|H|#dcc15e|Glitch|discord.gg/ClubGlitch|26
-6|01:00|60|H|#cc5a4d|The Ninth Room|discord.gg/WAJv7RvjAF|127
+6|01:00|60|H|#cc5a4d|The Ninth Room|discord.gg/WAJv7RvjAF|126
 6|01:30|60|V|#ef6d43|Luxe Nova|discord.gg/luxe-nova|77
 6|01:30|60|H|#d25483|Stripe|discord.gg/PKNBC8s4Zj|89
 6|02:00|60|B|#f5c248|Benediction|discord.gg/PMfw3vFHUw|90
@@ -156,7 +152,7 @@
 6|02:00|60|H|#3f839f|Pirates Cove|discord.gg/Ee3s8KYmmK|47
 6|02:00|60|H|#ca6cd1|Project Eden|discord.gg/qCPZfkYTM3|96
 6|02:00|60|H|#915e96|Tittiez N Talkin|discord.gg/Pefwsx2yH7|86
-6|02:30|60|H|#c7c7c7|MisfitManor|discord.gg/uxVHTrDxWP|124
+6|02:30|60|H|#c7c7c7|MisfitManor|discord.gg/uxVHTrDxWP|123
 6|03:00|60|B|#956c38|Clockwork Emporium|discord.gg/cwe|36
 6|03:00|60|H|#f0c92e|Complex|discord.gg/R3USKeGCfx|101
 6|03:00|90|H|#2f9a82|Crystal Rose|discord.gg/7TfaWTT|5
@@ -169,10 +165,10 @@
 6|04:00|90|B|#48dfe7|End Of Line|discord.gg/PwFXeQS7A7|94
 6|04:00|60|M|#a960cc|Femboy Host Club|discord.gg/XTqXt3QXSZ|136
 6|04:00|60|H|#faf49b|Lunaria|discord.gg/clublunaria|28
-6|04:00|60|H|#fbe971|Virtual Pantheon|discord.gg/virtualpantheon|125
+6|04:00|60|H|#fbe971|Virtual Pantheon|discord.gg/virtualpantheon|124
 6|04:30|60|H|#34e21a|CarnEvil|discord.gg/clubcarnevil|23
 6|04:30|60|M|#4d77a5|Drifters|discord.gg/RaYCKAY6QH|103
-6|04:30|60|H|#e1e1e1|House of Allure|discord.gg/theallure|116
+6|04:30|60|H|#e1e1e1|House of Allure|discord.gg/theallure|115
 6|05:00|60|V|#ffffff|BLACK BEE|discord.gg/GJU2SX2jz6|57
 6|05:00|60|H|#647db2|Corruption|discord.gg/corruption|34
 6|05:00|60|H|#a761e8|Pixel Paradise|discord.gg/pixelparadise|88
@@ -181,7 +177,7 @@
 6|05:30|120|H|#a8787c|The Forbidden Apple|discord.gg/HkcMFwWyRS|61
 6|09:00|120|H|#ba7484|Sexy AF|discord.gg/sexyaf|108
 6|15:00|90|V|#9a7374|Lujuria||-1
-6|15:30|60|V|#0cc9cd|Dream of Me|discord.gg/WjaJSVX|130
+6|15:30|60|V|#0cc9cd|Dream of Me|discord.gg/WjaJSVX|129
 6|19:00|120|H|#f9d1f5|BARDAK|discord.gg/bardak|18
 6|19:00|90|H|#8474a1|Revelry|discord.gg/FmhvyetBwe|53
 6|21:00|120|H|#ffe2a1|Ludeus|discord.gg/AWCFFnWnT3|15
