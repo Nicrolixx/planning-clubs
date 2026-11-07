@@ -143,6 +143,7 @@
 6|00:00|60|H|#7f7f7f|Abyss|discord.gg/abyssvr|11
 6|00:00|60|B|#e556f9|Moxxxi|discord.gg/clubmoxxxi|29
 6|00:00|120|H|#9d7aa8|Shadow|discord.gg/xcQUWeek6j|132
+6|00:00|60|B|#d9d4df|The Koncert|discord.gg/cnyHxSqa9U|33
 6|01:00|60|H|#ecbb71|Bewitched|discord.gg/bewitchedvr|19
 6|01:00|60|H|#dcc15e|Glitch|discord.gg/ClubGlitch|26
 6|01:00|60|H|#cc5a4d|The Ninth Room|discord.gg/WAJv7RvjAF|126
