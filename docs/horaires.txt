@@ -168,7 +168,7 @@
 6|04:00|60|M|#a960cc|Femboy Host Club|discord.gg/XTqXt3QXSZ|135
 6|04:00|60|H|#faf49b|Lunaria|discord.gg/clublunaria|27
 6|04:00|60|H|#fbe971|Virtual Pantheon|discord.gg/virtualpantheon|123
-6|04:30|60|H|#34e21a|CarnEvil|discord.gg/clubcarnevil|22
+6|04:30|60|B|#34e21a|CarnEvil|discord.gg/clubcarnevil|22
 6|04:30|60|M|#4d77a5|Drifters|discord.gg/RaYCKAY6QH|101
 6|04:30|60|H|#e1e1e1|House of Allure|discord.gg/theallure|114
 6|05:00|60|V|#ffffff|BLACK BEE|discord.gg/GJU2SX2jz6|56
