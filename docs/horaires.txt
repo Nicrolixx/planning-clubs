@@ -41,7 +41,6 @@
 2|03:00|150|B|#ab7275|Demonic Temptations|discord.gg/demonic-temptations|38
 2|03:00|60|H|#c4edf8|Moonlight Haven|discord.gg/themoonlighthaven|116
 2|03:00|60|H|#45f1ed|Sea Bunnies|discord.gg/N4AKHPZwqQ|77
-2|03:00|60|H|#c95cc3|Zenith|discord.gg/vrclubzenith2022|124
 2|04:00|60|H|#956c38|Clockwork Emporium|discord.gg/cwe|35
 2|04:00|60|H|#9db3ee|Fantasy|discord.gg/ClubFantasy|23
 2|04:00|60|H|#f1de82|Loading Sensations|discord.gg/gYHuKZ7H7J|57
