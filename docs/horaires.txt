@@ -1,12 +1,12 @@
 # Planning des clubs (heure de Paris)
 # jour(0=lundi)|HH:MM|duree min|type(H hebdo, B 1 sem/2, M mensuel, V variable)|couleur|Nom|invitation|logo
-#atlas|16|10|128|5fbf32cd2e
+#atlas|16|10|128|5e61499238
 0|02:00|60|H|#bc5657|Incubus|discord.gg/incubusvr|61
 0|02:00|60|H|#6d7486|Lost Desires|discord.gg/Y8aU3Eyhne|135
 0|02:00|60|H|#eea3af|Monstrum Inn|discord.gg/kwrAymhCtY|70
 0|03:00|150|H|#ab7275|Demonic Temptations|discord.gg/demonic-temptations|37
 0|03:00|60|H|#bb7676|Desire Entertainment|discord.gg/Desirevr|38
-0|03:00|60|B|#a47488|Dreams of Arcadia|discord.gg/zduksWKb5k|142
+0|03:00|60|B|#a47488|Dreams of Arcadia|discord.gg/zduksWKb5k|143
 0|03:00|60|M|#45f1ed|Sea Bunnies|discord.gg/N4AKHPZwqQ|76
 0|03:00|60|H|#b87582|Sinners Garden|discord.gg/thesinnersgarden|116
 0|04:00|60|H|#22cf54|Gotholica|discord.gg/yPPBKPm9Kq|138
@@ -32,7 +32,7 @@
 1|15:00|60|V|#7483a2|Adonis||-1
 1|20:30|60|H|#2f9a82|Crystal Rose|discord.gg/7TfaWTT|4
 1|21:00|60|H|#d85794|Tsuki|discord.gg/clubtsuki|30
-1|21:30|90|H|#a868a5|Hellbound Haven|discord.gg/zrJvHAfP6j|144
+1|21:30|90|H|#a868a5|Hellbound Haven|discord.gg/zrJvHAfP6j|145
 1|22:00|60|H|#c95cc3|Zenith|discord.gg/vrclubzenith2022|123
 1|23:00|60|H|#cf4af0|LMNTRIX|discord.gg/PPtKZgQ3zE|88
 2|00:00|120|H|#fec713|Honey Cove|discord.gg/nj5fPcXpTe|79
@@ -74,12 +74,14 @@
 4|03:00|90|H|#27abfa|Project; Utopia|discord.gg/projectutopia|89
 4|03:00|60|H|#bf5661|Scream Lounge|discord.gg/wnzPNY3FPA|128
 4|04:00|60|H|#faf5f2|Avinity|discord.gg/avinityvr|12
-4|04:00|90|H|#f4803a|Box 5|discord.gg/ZZD2RNTWMb|145
+4|04:00|90|H|#f4803a|Box 5|discord.gg/ZZD2RNTWMb|146
 4|04:00|90|H|#e4b942|Desired Divinity|discord.gg/k7tdw6uDfd|67
 4|04:00|120|H|#5d9ec1|Furry Desires|discord.gg/J37tqcK83D|62
+4|04:00|60|M|#a389c1|PSHQ|discord.gg/pshq|90
 4|04:00|60|H|#a77446|Terminus|discord.gg/TerminusEvent|110
 4|04:30|60|H|#966ea9|Fracture|discord.gg/clubfracture|23
-4|05:00|120|H|#f9dd89|Divine Serenity|discord.gg/Z9C6nQnXa2|141
+4|05:00|60|H|#ea9ac7|CASTLE SAKURA|discord.gg/yx3spg259W|141
+4|05:00|120|H|#f9dd89|Divine Serenity|discord.gg/Z9C6nQnXa2|142
 4|05:00|120|H|#987296|GenVR|discord.gg/BmBkAFF7h4|19
 4|16:00|90|M|#e97e74|Male Model Club|discord.gg/jdU8RdJBaE|63
 4|19:00|120|H|#ffffff|PATRIARXAT|discord.gg/jKVD4zsJke|64
@@ -87,7 +89,7 @@
 4|21:00|120|H|#f47f20|BELKA|discord.gg/fFVDFTZ4RE|50
 4|21:00|90|H|#4b8043|Mint Cat|discord.gg/4g76fXywup|1
 4|21:30|60|H|#b38b4f|Galathonian Empire|discord.gg/galathonian-empire|54
-4|22:00|60|H|#b17578|Eden|discord.gg/ZrbCqeKQZg|143
+4|22:00|60|H|#b17578|Eden|discord.gg/ZrbCqeKQZg|144
 4|22:30|90|H|#f8eb77|Candy Kingdom|discord.gg/qgu5E7MPex|94
 4|23:00|120|H|#5f7bba|Frisky n Risky|discord.gg/friskynrisky|52
 4|23:00|60|H|#bc5657|Incubus|discord.gg/incubusvr|61
@@ -143,6 +145,7 @@
 6|00:00|120|H|#9d7aa8|Shadow|discord.gg/xcQUWeek6j|130
 6|00:00|60|B|#d9d4df|The Koncert|discord.gg/cnyHxSqa9U|31
 6|01:00|60|H|#ecbb71|Bewitched|discord.gg/bewitchedvr|17
+6|01:00|60|B|#ea9ac7|CASTLE SAKURA|discord.gg/yx3spg259W|141
 6|01:00|60|H|#dcc15e|Glitch|discord.gg/ClubGlitch|24
 6|01:00|60|H|#cc5a4d|The Ninth Room|discord.gg/WAJv7RvjAF|124
 6|01:30|60|V|#ef6d43|Luxe Nova|discord.gg/luxe-nova|74
