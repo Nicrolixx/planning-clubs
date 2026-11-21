@@ -696,7 +696,7 @@
   "name": "Club Temptation"
  },
  "TerminusEvent": {
-  "checked": 1794993231.4159095,
+  "checked": 1795279549.1052063,
   "guild": "905456179076022352",
   "icon": "7630fef04b3a2d8cea77050c0736720c",
   "name": "Terminus"
@@ -870,7 +870,7 @@
   "name": "CASTLE SAKURA"
  },
  "Z9C6nQnXa2": {
-  "checked": 1794993232.0639143,
+  "checked": 1795279550.5963655,
   "guild": "1343621831999094794",
   "icon": "efc1781f76098819ffd583dc3bc8cfcc",
   "name": "Divine Serenity"
@@ -970,5 +970,17 @@
   "guild": "",
   "icon": "",
   "dead": 404
+ },
+ "PCDR5TXcX9": {
+  "checked": 1795279548.2143524,
+  "guild": "1341486757522440205",
+  "icon": "ce0eb9cd3f45f9e332e83bcef5d5ac00",
+  "name": "Club Midnight Constellation"
+ },
+ "YyfeC82Xfx": {
+  "checked": 1795279549.7623227,
+  "guild": "1507887934408491150",
+  "icon": "1d22271b62ec51e5764fe76bceee3e82",
+  "name": "Iridescence"
  }
 }
