@@ -864,7 +864,7 @@
   "name": "Starz glow"
  },
  "yx3spg259W": {
-  "checked": 1795368211.664094,
+  "checked": 1795646792.667605,
   "guild": "1472679566786035987",
   "icon": "e894a767dd3de870848dc54da46ce375",
   "name": "CASTLE SAKURA"
@@ -982,5 +982,11 @@
   "guild": "1507887934408491150",
   "icon": "1d22271b62ec51e5764fe76bceee3e82",
   "name": "Iridescence"
+ },
+ "fractured-freakquency": {
+  "checked": 1795646791.8505485,
+  "guild": "897887568635510864",
+  "icon": "c21c13aded4bfa6a17fbdd95223e2916",
+  "name": "Fractured Freakquency\u2122"
  }
 }
